@@ -70,7 +70,7 @@
 
     <form:form method="POST" modelAttribute="userForm" class="form-signin">
         <h2 class="form-signin-heading" align="center">SIGN UP</h2>
-        <img  class="logo" src="${contextPath}/resources/Images/visualpathlogo3.png" />
+        <img  class="logo" src="${contextPath}/resources/Images/devopslogo3.png" />
         <spring:bind path="username">
             <div class="form-group ${status.error ? 'has-error' : ''}">
                 <form:input type="text" path="username" class="form-control" placeholder="Username"
