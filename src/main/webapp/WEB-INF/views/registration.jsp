@@ -41,8 +41,8 @@
                                 <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="${contextPath}/index" >VISUAL PATH</a>
-                            <i class="brand_network"><small><small>VProfile</small></small></i>
+                            <a class="navbar-brand" href="#" >DEVOPS</a>
+                            <i class="brand_network"><small><small>Docker Project</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
