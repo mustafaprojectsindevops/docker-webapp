@@ -28,7 +28,7 @@
                             <a class="navbar-brand" href="#" style="margin-right:-8px; margin-top:-5px;">
                                 <img alt="Brand" src="${contextPath}/resources/Images/user/logo.png" width="30px" height="30px">
                             </a>
-                            <a class="navbar-brand" href="#">VisualPath</a>
+                            <a class="navbar-brand" href="#">DevOps</a>
                             <i class="brand_network"><small><small>VP* Network</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
