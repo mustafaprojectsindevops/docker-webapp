@@ -40,6 +40,7 @@ img.logo {
 .form-signin .form-signin-heading,
 .form-signin .checkbox {
     margin-bottom: 10px;
+    font-family: monospace;
 }
 
 .form-signin .checkbox {
